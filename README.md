@@ -1,7 +1,7 @@
-- 👋 Hi, I’m RL "Rob" Thornton (aka @thornshadow99)
-- 👀 I’m interested in software documentation (20-plus years of experience)
+- 👋 Hi, I’m RL "Rob" Thornton (aka @thornshadow99).
+- 👀 I’m interested in software documentation (20-plus years of experience).
 - 🌱 I’m currently reading: Aliette de Boddard's A Fire Born of Exile
-- 💞️ I’m looking to collaborate on interesting open source projects
+- 💞️ I’m looking to collaborate on interesting open source projects. Currently I am volunteering with the OWASP Cheat Sheet Project (see @jmanico for references).
 - 📫 How to reach me: 320gigaybytes@gmail.com
 - 😄 Pronouns: he/him
 - Fun fact: JRR Tolkien and CS Lewis were besties. :)
